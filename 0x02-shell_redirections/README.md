@@ -20,3 +20,4 @@ Replace all characters A and c from input to Z and e respectively.
 removes all letters c and C from input.
 21. reverse its input
 22. displays all users and their home directories, sorted by users
+23. finds all empty files and directories in the current directory and all sub-directories.
