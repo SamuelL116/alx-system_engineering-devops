@@ -21,3 +21,4 @@ removes all letters c and C from input.
 21. reverse its input
 22. displays all users and their home directories, sorted by users
 23. finds all empty files and directories in the current directory and all sub-directories.
+25. decodes acrostics that use the first letter of each line
