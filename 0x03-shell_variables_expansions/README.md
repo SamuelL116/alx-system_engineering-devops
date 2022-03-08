@@ -3,3 +3,4 @@
 3. Counts the number of directories in the PATH
 4. Lists environment variables.
 5. List local variable and envirnment variables, and functions
+6. Creates a new variable
