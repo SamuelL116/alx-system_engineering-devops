@@ -1,0 +1,18 @@
+https://imgur.com/r6lrWqn
+
+1 server
+1 web server (Nginx)
+1 application server
+1 application files (your code base)
+1 database (MySQL)
+1 domain name foobar.com configured with a www record that points to your server IP 8.8.8.8
+
+1. A server is a program of device that provides service to users (clients)
+2. A domain's role is ddressing and identifying hostnames and hosts
+3. Authoritative DNS 4
+4. Application server run process power and memory memory to run demanding application and it also provides the enviroment to run specific applications.
+5. The web server it uses HTTP and other protocols to respond to client request made over the WWW.
+It store the processing and deliver webpages to users.
+6. The database it give access to creation,updating and retrieval of records.
+It provides access to only users who have password.
+7. The server uses internet to or DNS to communicate
